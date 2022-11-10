@@ -1,7 +1,7 @@
 // creo lista (array)
 
 const lista = ["mario.rossi@gmail.com", "luca.bianchi@gmail.com", "alberto.schianni@gmail.com"];
-console.log(lista);
+console.log(lista); 
 
 // utente inserisce email 
 
