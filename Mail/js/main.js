@@ -5,8 +5,15 @@ console.log(lista);
 
 // utente inserisce email 
 
-let myEmail = prompt("inserisci la tua email");
-console.log(myEmail);
+// let myEmail = document.getElementById("mia-email").value;
+var myButton = document.querySelector("button");
+
+
+myButton.addEventListener("click",
+
+    let myEmail = document.getElementById("mia-email").value;
+    console.log(myEmail);
+)
 
 // controllo se l'email inserita (valore?) sia presente all'interno della lista 
 
